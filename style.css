@@ -1,0 +1,16 @@
+body {
+  min-height: 3000px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: hsl(160, 100%, 75%);
+}
+#kemampuan {
+  background-color: hsl(160, 100%, 75%);
+}
+section {
+  padding-top: 2rem;
+}
+#contact {
+  background-color: hsl(160, 100%, 75%);
+}
